@@ -1,0 +1,22 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Claude Code / bkit
+.bkit/
+.claude/settings.local.json
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+.env.*
+
+# Java 예제 코드 빌드 결과물
+.gradle/
+build/
+out/
+target/
+*.class
