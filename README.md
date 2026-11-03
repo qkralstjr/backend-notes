@@ -4,7 +4,7 @@
 
 ## ☕ Java
 
-- [ ] ⭐ JVM 메모리 구조
+- [X] ⭐ JVM 메모리 구조
 - [ ] ⭐ GC 동작 원리
 - [ ] ⭐ equals / hashCode
 - [ ] ⭐ HashMap 내부 동작
