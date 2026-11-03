@@ -7,6 +7,10 @@
 .bkit/
 .claude/settings.local.json
 
+# Local AI guides
+.ai-guides/
+AGENTS.md
+CLAUDE.md
 # macOS
 .DS_Store
 
